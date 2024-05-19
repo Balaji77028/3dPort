@@ -105,7 +105,7 @@ const About = () => {
       </div>
 
       {/* sociallinks */}
-      {/* <hr className="border-slate-200 mt-5" /> */}
+{/*       <hr className="border-slate-200 mt-5" /> */}
       <div className="py-10 flex flex-col">
         <h3 className="subhead-text">Social Profiles</h3>
       </div>
