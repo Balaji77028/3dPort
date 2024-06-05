@@ -223,9 +223,9 @@ export const projects = [
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
-        name: 'Full Stack Instagram Clone',
+        name: 'Frimstagram(insta clone)',
         description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://github.com/adrianhajdin/social_media_app',
+        link: 'https://frimstagram.vercel.app',
     },
     // {
     //     iconUrl: summiz,
